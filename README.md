@@ -1,5 +1,5 @@
-### Hello there 👋 I'm Nicolas Vagnoux !
-## A young fullstack web developper
+## Hello there 👋 I'm Nicolas Vagnoux !
+### A young fullstack web developper
 
 <!--
 **NicolasVagnoux/NicolasVagnoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
