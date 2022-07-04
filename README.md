@@ -1,5 +1,5 @@
 ## Hello there 👋 I'm Nicolas Vagnoux !
-### Junior Fullstack Web Developper
+### 💻 Junior Fullstack Web Developper
 
 
 ### <div align="left" color="black">🚀 Technologies & Tools 🚀<div/>
