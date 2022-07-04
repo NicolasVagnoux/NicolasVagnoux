@@ -26,7 +26,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasvagnoux" alt="nicolasvagnoux" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasvagnoux&rank=SSS,SS,S,AAA,AA,A,B,C" alt="nicolasvagnoux" /></a></p>
 
 <br>
 
