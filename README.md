@@ -1,6 +1,7 @@
 ## Hello there 👋 I'm Nicolas Vagnoux !
 ### Junior Fullstack Web Developper
 
+<br/>
 ### <div align="left" color="black">🚀 Technologies & Tools 🚀<div/>
 
 <p align="left">
@@ -24,19 +25,13 @@
 ![Follows](https://img.shields.io/github/followers/JacquesPoulin.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/JacquesPoulin?style=social)
 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasvagnoux&rank=SSS,SS,S,AAA,AA,A,B,C" alt="nicolasvagnoux" /></a></p>
-
-<br>
 
 - 🔭 I’m currently studyinging **Web developpment at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
 
 - 👨‍💻 All of my projects are available on :
 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasVagnoux)
-
-  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/NicolasVagnoux?tab=repositories)
 
 <br>
 
