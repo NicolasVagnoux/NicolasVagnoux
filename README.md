@@ -18,9 +18,9 @@
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 </p>
-
+<br>
 ![Profile views](https://gpvc.arturio.dev/JacquesPoulin)
-
+<br>
 ![Follows](https://img.shields.io/github/followers/NicolasVagnoux.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/NicolasVagnoux?style=social)
 
