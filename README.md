@@ -28,8 +28,12 @@
 ![Follows](https://img.shields.io/github/followers/NicolasVagnoux.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/NicolasVagnoux?style=social)
 
+ <br> 
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasvagnoux&rank=SSS,SS,S,AAA,AA,A,B,C" alt="nicolasvagnoux" /></a></p>
 
+<br>  
+  
 - 🔭 I’m currently studyinging **Web developpment at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
 
 - 👨‍💻 All of my projects are available on :
