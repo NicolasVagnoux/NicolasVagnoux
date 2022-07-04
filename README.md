@@ -21,8 +21,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/JacquesPoulin)
 
-![Follows](https://img.shields.io/github/followers/JacquesPoulin.svg?style=social&label=Follow&maxAge=2592000)
-![GitHub stars](https://img.shields.io/github/stars/JacquesPoulin?style=social)
+![Follows](https://img.shields.io/github/followers/NicolasVagnoux.svg?style=social&label=Follow&maxAge=2592000)
+![GitHub stars](https://img.shields.io/github/stars/NicolasVagnoux?style=social)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasvagnoux&rank=SSS,SS,S,AAA,AA,A,B,C" alt="nicolasvagnoux" /></a></p>
 
