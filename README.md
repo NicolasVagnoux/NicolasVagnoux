@@ -1,7 +1,7 @@
 ## Hello there 👋 I'm Nicolas Vagnoux !
 ### Junior Fullstack Web Developper
 
-<br/> <div align="left" color="black">🚀 Technologies & Tools 🚀<div/>
+<br/> ###<div align="left" color="black">🚀 Technologies & Tools 🚀<div/>
 
 <p align="left">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
