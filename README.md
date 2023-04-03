@@ -34,7 +34,7 @@
 
 <br>  
   
-- 🔭 I’m currently studyinging **Web developpment at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
+- 🔭 I studied **Web developpment at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
 
 - 👨‍💻 All of my projects are available on :
 
